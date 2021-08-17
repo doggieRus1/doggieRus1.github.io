@@ -1,0 +1,42 @@
+body{
+    background-color: aqua;
+    font-size: large;
+}
+header{
+    height: 100px;
+    background-color: green;
+
+}
+.center{
+    text-align: center;
+    color: rgba(5, 255, 255, 0.719);
+}
+a{
+    color: darkblue;
+    background-color: aqua;
+}
+
+img{
+    height:300px;
+}
+
+
+
+.cc{
+    text-align: center;
+    float: right;
+    padding: 10px, 10px;
+    width: 50%;
+    height: 410px;
+}
+.dog{
+    text-align: center;
+    float: right;
+    padding: 10px, 10px;
+    width: 50%;
+    height: 410px;
+}
+
+.h1{
+    text-align: left;
+}
